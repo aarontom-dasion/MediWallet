@@ -1,1 +1,2 @@
-# MediWallet
+pnpm install
+pnpm dev
